@@ -17,7 +17,7 @@ const obj = {
 // after pretter
 // const obj = {
 //   a: 1,
-//   b: 10
+//   b: 10,
 // };
 
 

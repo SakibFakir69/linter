@@ -1,7 +1,7 @@
 <!-- install eslint -> npm install eslint -->
 <!-- init eslint config file -> npx eslint --init -->
 <!-- than  set rules based on coding style -->
-
+<!-- eslin gave , warn and error -->
 <!--  pretter -->
 <!-- rules for pretteir  -->
 
